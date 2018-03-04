@@ -1,0 +1,9 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource>
+        <file>shaders/vertex.glsl</file>
+        <file>shaders/fragment.glsl</file>
+        <file>textures/container.jpg</file>
+        <file>textures/awesomeface.png</file>
+    </qresource>
+</RCC>
